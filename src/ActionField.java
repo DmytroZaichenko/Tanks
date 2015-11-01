@@ -10,27 +10,7 @@ public class ActionField extends JPanel{
 
     public void runTheGame() throws Exception{
 
-
-//        fire();
-//        turn(TankDirection.RIGHT);
-//        fire();
-//        move();
-//        fire();
-//        turn(TankDirection.UP);
-//
-//        while (! checkLimits(TankDirection.UP)){
-//            move();
-//            fire();
-//        }
-
-        //System.out.println(TankDirection.v);TankDirection.values();
-//        for (TankDirection direction : TankDirection.values()){
-//            System.out.println(direction.getValue());
-//        }
         clean();
-
-
-
 
     }
 
